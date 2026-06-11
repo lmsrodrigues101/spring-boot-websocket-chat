@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como um exercício prático para compreender a fun
 
 ## 🛠️ Tecnologias Utilizadas
 **Backend:**
-* Java 17
+* Java
 * Spring Boot 3
 * Spring WebSockets
 * Lombok (redução de *boilerplate* code)
